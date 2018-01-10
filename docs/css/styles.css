@@ -2875,3 +2875,10 @@ a.text-dark:focus, a.text-dark:hover {
 .icon-lg {
   height: 2rem;
   width: 2rem; }
+
+header {
+  height: 2em;
+  background: #495057; }
+  header nav a {
+    text-decoration: none;
+    color: #fff; }
